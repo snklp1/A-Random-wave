@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613328819 source:d:\codeblocks\wave_gen\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<time.h>
+
